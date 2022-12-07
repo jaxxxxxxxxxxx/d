@@ -1,3 +1,4 @@
 testaccount|2
 p0landd_xMnL|SS
 LumaFailedNNN|SS
+FlowFailedNNN|SS
